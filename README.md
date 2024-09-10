@@ -13,7 +13,7 @@
     ![alt text](image-2.png)
 
 5. my-first-deployment is deleted :
-    ![alt text](image-4.png)
+    ![alt text](image-11.png)
 
 6. the yaml file of the deployment is created :
     ![alt text](image-5.png)
